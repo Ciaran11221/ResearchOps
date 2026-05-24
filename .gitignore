@@ -1,0 +1,29 @@
+# Environment
+.env
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Config — contains user API key, never commit this
+config.json
+
+# Reports — generated output, not source code
+output/
+
+# PyInstaller build files
+build/
+dist/
+*.spec
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
