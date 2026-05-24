@@ -1,5 +1,11 @@
 # ResearchOps — Multi-Agent AI Research Pipeline
+## Download
 
+**[⬇ Download ResearchOps.exe](https://github.com/Ciaran11221/ResearchOps/releases/latest/download/ResearchOps.exe)**
+
+> Windows only · No installation required · Requires your own [Anthropic API key](https://console.anthropic.com)
+
+---
 A local desktop application that uses a team of four specialist AI agents to autonomously research any topic and produce a structured markdown report.
 
 Built directly on the **Anthropic API** (no LangChain or agent frameworks) to demonstrate orchestrator/specialist agent patterns, tool use, and context window management — the core skills required for agentic workflow engineering roles.
